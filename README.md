@@ -1,5 +1,5 @@
 # A Simple Currency Converter
 
-A new one Flutter application
+A Flutter application
 
 
